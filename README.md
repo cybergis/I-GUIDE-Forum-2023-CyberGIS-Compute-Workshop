@@ -1,6 +1,6 @@
 # I-GUIDE Forum 2023: CyberGIS-Compute Workshop
 
-[View the notebook on CyberGISX Hub](https://cybergisxhub.cigi.illinois.edu/notebook/i-guide-forum-2023-cybergis-compute/).
+[View the notebook on CyberGISX Hub](https://cybergisxhub.cigi.illinois.edu/notebook/i-guide-forum-2023-cybergis-compute-workshop/).
 
 **Authors:** Alexander Michels, Furqan Baig, Taylor Ziegler, Zimo Xiao, Mit Kotak, Anand Padmanabhan, Zhiyu Li, and Shaowen Wang
 
